@@ -37,6 +37,8 @@
 - VirtualSMC.kext
 - WhateverGreen.kext
 
+![image](https://user-images.githubusercontent.com/47448206/170695080-911bf811-abfc-4f1f-a15c-e2357e8270b5.png)
+
 ## Geekbench Results:
 - N/A :(
 
